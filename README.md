@@ -1,0 +1,1 @@
+This project is my attempt at creating REST webservice with Scala, Spray, JSON.  It is based on Activator provided template.  Tries out Slick with simple table structure of a cooking recipe. 
